@@ -1,5 +1,8 @@
-# S_Thon
+# Smartathon
 
+<p align="center">
+<img src="ProjectFlow.jpeg">
+</p>
 
 
 ### Make sure to install the required libraries:
