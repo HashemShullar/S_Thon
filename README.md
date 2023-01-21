@@ -37,4 +37,4 @@ python ./tools/infer.py
 ```
 Put the images you want to test in the folder: "images". The results will be in the "outputs" folder. You can download the model from the following link: [Model](https://drive.google.com/file/d/1FPg73nBUMC7OD1DESZQr3fYX536iQorL/view?usp=sharing)   
 
-Adapted from: 
+Adapted from: https://github.com/meituan/YOLOv6
